@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Привет! 👋
+Меня зовут __Глеб__\
+Я студент 2-ого курса __КИПУ__, учусь программированию\
+![Alt text](https://images.steamusercontent.com/ugc/23189918869859114/A2DA4DD93ED8B3FF15454F8E2608D9058677249D/)
 <!--
 **aqquque/aqquque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
